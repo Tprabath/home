@@ -1,0 +1,19 @@
+[
+  {
+    "img": "https://i.ibb.co/3mDCsj5t/bell.png",
+    "title": "Console Alarmer App",
+    "description": "This application build for schools.<br>Command-line application showcasing core OOP design — inheritance hierarchies, polymorphism, and clean encapsulation.",
+    "tags": ["Java", "OOP", "CLI", "SIMPLE PROJECT"],
+    "github": "https://github.com/Tprabath/Alarmer_01",
+    "download": "",
+    "demo": ""
+  },{
+  "img": "https://i.ibb.co/HT9yH4rG/chat-message-100.png",
+  "title": "Y-Chat",
+  "description": "A cross-platform chat app built with React Native.",
+  "tags": ["React Native", "MOBILE","WEB", "ONGOING PROJECT"],
+  "github": "",
+  "download": "",
+  "demo": ""
+}
+]
