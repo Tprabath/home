@@ -3,17 +3,45 @@
     "img": "https://i.ibb.co/3mDCsj5t/bell.png",
     "title": "Console Alarmer App",
     "description": "This application build for schools.<br>Command-line application showcasing core OOP design — inheritance hierarchies, polymorphism, and clean encapsulation.",
-    "tags": ["Java", "OOP", "CLI", "SIMPLE PROJECT"],
+    "tags": [
+      "Java",
+      "OOP",
+      "CLI",
+      "SIMPLE PROJECT"
+    ],
     "github": "https://github.com/Tprabath/Alarmer_01",
     "download": "",
-    "demo": ""
-  },{
-  "img": "https://i.ibb.co/HT9yH4rG/chat-message-100.png",
-  "title": "Y-Chat",
-  "description": "A cross-platform chat app built with React Native.",
-  "tags": ["React Native", "MOBILE","WEB", "ONGOING PROJECT"],
-  "github": "",
-  "download": "",
-  "demo": ""
-}
+    "demo": "",
+    "live": ""
+  },
+  {
+    "img": "https://i.ibb.co/HT9yH4rG/chat-message-100.png",
+    "title": "Y-Chat",
+    "description": "A cross-platform chat app built with React Native.",
+    "tags": [
+      "React Native",
+      "MOBILE",
+      "WEB",
+      "ONGOING PROJECT"
+    ],
+    "github": "",
+    "download": "",
+    "demo": "",
+    "live": ""
+  },
+  {
+    "img": "https://i.ibb.co/1Ynrp0bW/edu-helpline-round.png",
+    "title": "Short Note Wiki",
+    "description": "A platform for sharing short notes.",
+    "tags": [
+      "Node.JS",
+      "TypeScript",
+      "WEB",
+      "HOBBY PROJECT"
+    ],
+    "github": "",
+    "download": "",
+    "demo": "",
+    "live": "https://edu-helpline.duckdns.org:8443/shortNoteWiki"
+  }
 ]
