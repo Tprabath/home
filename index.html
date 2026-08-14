@@ -1269,6 +1269,13 @@
         </svg>
         YouTube
       </a>
+      <a href="https://www.linkedin.com/in/tharusha-prabhath-bandara2007/" target="_blank" class="soc">
+        <svg viewBox="0 0 24 24">
+          <path
+            d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667h-3.554V9h3.414v1.561h.049c.476-.9 1.637-1.852 3.37-1.852 3.602 0 4.268 2.37 4.268 5.455v6.288ZM5.337 7.433c-1.144 0-2.07-.927-2.07-2.07 0-1.144.926-2.07 2.07-2.07s2.07.926 2.07 2.07c0 1.143-.926 2.07-2.07 2.07Zm1.777 13.019H3.56V9h3.554v11.452ZM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.226.792 24 1.771 24h20.451C23.2 24 24 23.226 24 22.271V1.729C24 .774 23.2 0 22.225 0Z" />
+        </svg>
+        Linkedin
+      </a>
     </div>
   </section>
 
@@ -1435,7 +1442,7 @@
 
             `<div class="accordion-body">
           ${t.exam_data.subjects.map(
-                (s, idx) => `
+              (s, idx) => `
               <div class="subject-row">
                 <span class="subject-index">${idx + 1}.</span>
                 <span class="subject-label">${s.label}</span>
@@ -1446,7 +1453,7 @@
 
               </div>
             `
-              )
+            )
               .join('')}
         </div>
       </div>` : ''}
@@ -1517,7 +1524,7 @@
       function tick() {
         const word = ROLES[ri];
         if (!del) { el.textContent = word.slice(0, ci++); if (ci > word.length) { del = true; w = 55; } }
-        else { if (w-->0) { setTimeout(tick, 28); return; } el.textContent = word.slice(0, ci--); if (ci < 0) { del = false; ri = (ri + 1) % ROLES.length; ci = 0; } }
+        else { if (w-- > 0) { setTimeout(tick, 28); return; } el.textContent = word.slice(0, ci--); if (ci < 0) { del = false; ri = (ri + 1) % ROLES.length; ci = 0; } }
         setTimeout(tick, del ? 38 : 85);
       }
       setTimeout(tick, 1200);
