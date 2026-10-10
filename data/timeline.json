@@ -1,0 +1,64 @@
+[
+  {
+    "date": "2024 — PRESENT",
+    "role": "Higher Education (Software Engineering)",
+    "place": "Java Institute for Advanced Technology",
+    "desc": "Studying core SE fundamentals: algorithms, data structures, databases, software engineering principles, and many more..."
+  },
+  {
+    "date": "≈2013 — 2024",
+    "role": "Student",
+    "place": "Rambadagalla Central College",
+    "desc": "Completed primary to Ordinary‑Level (O/L) education with a strong focus on academic growth, discipline, and active participation in extracurricular activities. Developed foundational skills in teamwork, communication, and problem‑solving through school projects and community involvement.",
+    "exam_data": {
+      "exam": "G.C.E(O/L) Examination - 2023(2024)",
+      "subjects": [
+        {
+          "label": "Science",
+          "status": "done",
+          "result": "A"
+        },
+        {
+          "label": "Civic Education",
+          "status": "done",
+          "result": "B"
+        },
+        {
+          "label": "Information & Communication Technology",
+          "status": "done",
+          "result": "B"
+        },
+        {
+          "label": "Buddhism",
+          "status": "done",
+          "result": "C"
+        },
+        {
+          "label": "Sinhala Language & Literature",
+          "status": "done",
+          "result": "C"
+        },
+        {
+          "label": "English Language",
+          "status": "done",
+          "result": "C"
+        },
+        {
+          "label": "Mathematics",
+          "status": "done",
+          "result": "C"
+        },
+        {
+          "label": "History",
+          "status": "done",
+          "result": "C"
+        },
+        {
+          "label": "Music (Oriental)",
+          "status": "done",
+          "result": "ab"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "img": "https://i.ibb.co/3mDCsj5t/bell.png",
+    "title": "Console Alarmer App",
+    "description": "This application build for schools.<br>Command-line application showcasing core OOP design — inheritance hierarchies, polymorphism, and clean encapsulation.",
+    "tags": [
+      "Java",
+      "OOP",
+      "CLI",
+      "SIMPLE PROJECT"
+    ],
+    "github": "https://github.com/Tprabath/Alarmer_01",
+    "download": "",
+    "demo": "",
+    "live": ""
+  },
+  {
+    "img": "https://i.ibb.co/HT9yH4rG/chat-message-100.png",
+    "title": "Y-Chat",
+    "description": "A cross-platform chat app built with React Native.",
+    "tags": [
+      "React Native",
+      "MOBILE",
+      "WEB",
+      "ONGOING PROJECT"
+    ],
+    "github": "",
+    "download": "",
+    "demo": "https://youtu.be/9mEq61z_CK8?si=JsFkQJ6T0x79Vazq",
+    "live": "https://winkey-tech.duckdns.org:8443/y-chat"
+  },
+  {
+    "img": "https://i.ibb.co/1Ynrp0bW/edu-helpline-round.png",
+    "title": "Short Note Wiki",
+    "description": "A platform for sharing short notes.",
+    "tags": [
+      "Node.JS",
+      "TypeScript",
+      "Express",
+      "MySQL",
+      "WEB",
+      "HOBBY PROJECT"
+    ],
+    "github": "",
+    "download": "",
+    "demo": "",
+    "live": "https://edu-helpline.duckdns.org:8443/shortNoteWiki"
+  },
+  {
+    "img": "https://i.ibb.co/XZw37g0L/code-flat-color-outline-icon-free-png-edited.png",
+    "title": "String Processor Library",
+    "description": "A versatile, lightweight library for processing templates or strings by replacing placeholders with dynamic data values. This library provides a flexible and type-safe way to inject data into template/strings across multiple programming languages.",
+    "tags": [
+      "template",
+      "html",
+      "text",
+      "string",
+      "processor",
+      "regex",
+      "placeholder"
+    ],
+    "github": "https://github.com/Tprabath/String-Processor",
+    "download": "",
+    "demo": "",
+    "live": ""
+  }
+]

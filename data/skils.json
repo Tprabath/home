@@ -1,0 +1,140 @@
+[
+    {
+        "icon": "☕",
+        "title": "Java Core",
+        "description": "Solid grasp of Java syntax, data types, control flow, arrays, methods, and the standard library.",
+        "tags": [
+            "Java",
+            "JDK",
+            "Collections",
+            "Loops",
+            "Methods",
+            "Exceptions"
+        ],
+        "level": 85
+    },
+    {
+        "icon": "🧩",
+        "title": "OOP Principles",
+        "description": "Designing with classes, objects, inheritance, encapsulation, polymorphism, and abstraction.",
+        "tags": [
+            "Classes",
+            "Inheritance",
+            "Polymorphism",
+            "Encapsulation",
+            "Abstraction"
+        ],
+        "level": 80
+    },
+    {
+        "icon": "🗄️",
+        "title": "MySQL & Databases",
+        "description": "Writing queries, designing relational schemas, JOIN operations, and basic database management.",
+        "tags": [
+            "MySQL",
+            "SQL",
+            "SELECT",
+            "JOINs",
+            "Schema Design",
+            "CRUD"
+        ],
+        "level": 60
+    },
+    {
+        "icon": "🐙",
+        "title": "Git & GitHub",
+        "description": "Version control, branching, pull requests, and collaborative workflows.",
+        "tags": [
+            "Git",
+            "GitHub",
+            "Branching",
+            "Commits"
+        ],
+        "level": 45
+    },
+    {
+        "icon": "🖧",
+        "title": "Hardware & Networking",
+        "description": "Understanding computer components, network layers, IP addressing, and troubleshooting hardware issues.",
+        "tags": [
+            "Networking",
+            "LAN/WAN",
+            "Hardware",
+            "Troubleshooting"
+        ],
+        "level": 65
+    },
+    {
+        "icon": "📐",
+        "title": "OO System Analysis & Design",
+        "description": "Analyzing requirements, modeling systems using UML, and designing scalable object-oriented architectures.",
+        "tags": [
+            "UML",
+            "Use Cases",
+            "Class Diagrams",
+            "System Design"
+        ],
+        "level": 0
+    },
+    {
+        "icon": "🛠️",
+        "title": "Software Application Development",
+        "description": "Building structured applications with layered architecture, debugging, testing, and applying best practices.",
+        "tags": [
+            "SDLC",
+            "Debugging",
+            "Testing",
+            "Architecture",
+            "Best Practices"
+        ],
+        "level": 0
+    },
+    {
+        "icon": "🎛️",
+        "title": "Design Patterns",
+        "description": "Applying reusable solutions like Singleton, Factory, Strategy, and Observer to solve common design problems.",
+        "tags": [
+            "Singleton",
+            "Factory",
+            "Strategy",
+            "Observer",
+            "Patterns"
+        ],
+        "level": 0
+    },
+    {
+        "icon": "📅",
+        "title": "Project Management",
+        "description": "Managing tasks, timelines, resources, and communication using structured project methodologies.",
+        "tags": [
+            "Planning",
+            "Agile",
+            "Risk Management"
+        ],
+        "level": 0
+    },
+    {
+        "icon": "🎬",
+        "title": "Video Editing",
+        "description": "Editing videos using DaVinci Resolve with skills in cutting, color grading, transitions, audio balancing, and timeline management.",
+        "tags": [
+            "DaVinci Resolve",
+            "Editing",
+            "Color Grading",
+            "Audio Mixing",
+            "Timeline"
+        ],
+        "level": 0
+    },
+    {
+        "icon": "🔌",
+        "title": "Basic Electronics",
+        "description": "Understanding electronic components, simple circuits, soldering, and troubleshooting basic hardware issues.",
+        "tags": [
+            "Circuits",
+            "Soldering",
+            "Troubleshooting"
+        ],
+        "level": 0
+    }
+]

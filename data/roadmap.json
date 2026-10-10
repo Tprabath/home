@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Ordinary‑Level (O/L)",
+    "status": "done"
+  },
+  {
+    "label": "Higher Education – Bachelor’s Degree (Software Engineering)",
+    "status": "active"
+  },
+  {
+    "label": "Postgraduate",
+    "status": "future"
+  }
+]

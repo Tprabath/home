@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "🔥",
+    "title": "Hungry to Learn",
+    "text": "I study every day and absorb new concepts fast. Low experience, maximum dedication."
+  },
+  {
+    "icon": "🧱",
+    "title": "Strong Fundamentals",
+    "text": "Java Core, OOP principles, clean code habits — built from scratch, the right way."
+  },
+  {
+    "icon": "💸",
+    "title": "Student Rates",
+    "text": "Motivated fresh talent without the senior price tag. Great ROI for small projects."
+  },
+  {
+    "icon": "📬",
+    "title": "Reliable & Honest",
+    "text": "I communicate clearly, hit deadlines, and tell you upfront if something is beyond me."
+  },
+  {
+    "icon": "🧠",
+    "title": "Growth Mindset",
+    "text": "Every project makes me better. I improve fast when given real feedback."
+  },
+  {
+    "icon": "🤝",
+    "title": "Team Player",
+    "text": "Collaborative, open to code reviews, eager to learn from experienced developers."
+  }
+]
